@@ -1,36 +1,36 @@
 {
   "manifest_name": {
-    "message": "Älä koskaan lopeta Netflixiä"
+    "message": "Loppumaton Netflix"
   },
   "manifest_description": {
-    "message": "Toista automaattisesti seuraava jakso, ohita otsikkosarjat, ohita \"Oletko edelleen katsomassa?\" ohjeita ja etsi yli 3000 lajityyppiä!"
+    "message": "Toista automaattisesti seuraava jakso, ohita alkutekstit, ohita \"Katsotko vielä?\" ja etsi yli 3000 genreä!"
   },
   "skipTitleSequences": {
-    "message": "Ohita otsikkosekvenssit"
+    "message": "Ohita alkutekstit"
   },
   "autoPlayNext": {
     "message": "Toista automaattisesti seuraava jakso"
   },
   "alwaysWatchCredits": {
-    "message": "Katso aina luottoja"
+    "message": "Katso aina lopputekstit"
   },
   "hideAutoPlayVid": {
-    "message": "Piilota suosittujen videoiden toistaminen"
+    "message": "Piilota mainosvideot"
   },
   "dontPromptStillWatching": {
-    "message": "Älä pyydä \"Katsotko vielä?\""
+    "message": "Älä kysy \"Katsotko vielä?\""
   },
   "hideDownvoted": {
-    "message": "Piilota alaspäin siirretty sisältö"
+    "message": "Piilota alaspäin äänestetty sisältö"
   },
   "support": {
     "message": "Tuki"
   },
   "highContrast": {
-    "message": "Korkea kontrasti-tila"
+    "message": "Korkean kontrastin tila"
   },
   "genreSearch": {
-    "message": "Genre Search"
+    "message": "Genrehaku"
   },
   "sourceCode": {
     "message": "Lähdekoodi"
